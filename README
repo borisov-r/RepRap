@@ -1,0 +1,25 @@
+This project is based on RepRap Mendel.
+
+This repository will be the main source for the mechanics of our own version of RepRap with very precise X and Y movements.
+
+===============================================
+
+Mechanics:
+Sketchup
+CamBam / gcodes
+
+===============================================
+
+Firmware: is based on Tonokip
+
+===============================================
+
+Electronics: should be based on upcomming rfAtmega128 our design.
+
+===============================================
+
+Main contributors to this project are:
+Alexander
+Radoslav
+Pipo
+Ruslan
