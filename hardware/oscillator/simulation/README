@@ -1,0 +1,9 @@
+Simulation software - LTspice
+
+This is simple oscillator simulation with Timer 555 and NMOS power transistor.
+Based on this simulation a schematic and single sided board will be generated.
+
+The board is inteded to be used for initial test of the ABS and PLA extruder.
+The board will control manually the extruder temperature or heatbed.
+
+

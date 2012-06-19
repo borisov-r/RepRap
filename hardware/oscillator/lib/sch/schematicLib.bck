@@ -1,0 +1,168 @@
+EESchema-DOCLIB  Version 2.0  Date: Tue 19 Jun 2012 04:53:55 PM EEST
+#
+$CMP 2450FB15L0001
+D 2.45 GHz Harmonic Filter-Balun Optimized for AT86RF230/231 and ATmega128RFA1
+K 2450FB15L0001, ATmega128RFa1
+F http://www.farnell.com/datasheets/1318323.pdf
+$ENDCMP
+#
+$CMP ATMEGA128RFA1
+D Atmega128rfa1 - Atmega128 with RF frontend @ 2.4 GHz
+K atmega, atmega128, atmega128rfa1
+F http://www.atmel.com/Images/doc8266.pdf
+$ENDCMP
+#
+$CMP BA033CC0WFP
+D 3.3V LDO, 1A, ROHM BA033CC0WFP
+K LDO, 1A, 3.3V
+F http://store.comet.bg/bg/Catalogue/Product/4872/?dl=2663
+$ENDCMP
+#
+$CMP BAT54S
+D 200mW SMD Schottky Barrier Diode, BAT54S
+K Diode, BAT54S, SMD, Shottky
+F http://www.farnell.com/datasheets/1317753.pdf
+$ENDCMP
+#
+$CMP BUTTON
+D TS-061 Tact Switch
+K 2p SPST Tact Switch Button
+F http://store.comet.bg/bg/Catalogue/Product/10161/
+$ENDCMP
+#
+$CMP CAP_0603
+D Capacitor 0603
+K capacitor
+$ENDCMP
+#
+$CMP CAP_0603_POL
+D Tantala capacitor 0603
+K capacitor
+$ENDCMP
+#
+$CMP CON16
+D 16 pins connector header
+K connector, 16 pins, header
+$ENDCMP
+#
+$CMP CON6
+D 6 pins connector
+K connector, 6 pins
+$ENDCMP
+#
+$CMP CON8
+D 8 pins connector
+K connector, 8 pins
+$ENDCMP
+#
+$CMP DCPWR_JACK2P5_PCB
+D DC Power Jack 2.5 mm
+K DC, power supply, jack, 2.5 mm
+$ENDCMP
+#
+$CMP DIODE
+D General purpose diodes
+K diode, general purpose
+$ENDCMP
+#
+$CMP FT232RL
+D USB to serial converter FT232RL (FTDI)
+K FTDI, FT232RL
+F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf
+$ENDCMP
+#
+$CMP H2X3
+D Header 2x3, 2.54
+K Header, 2x3, 2.54
+$ENDCMP
+#
+$CMP I2C
+D I2C interface
+K Connector, I2C, Interface
+$ENDCMP
+#
+$CMP IND_0603
+D Inductor 0603
+K inductor
+$ENDCMP
+#
+$CMP J2PIN
+D Jumper
+K jumper 2 pins header
+$ENDCMP
+#
+$CMP J3PIN
+D Jumper
+K jumper 3 pins header
+$ENDCMP
+#
+$CMP NE555
+D Timer 555
+K Timer 555
+F http://store.comet.bg/download-file.php?id=3101
+$ENDCMP
+#
+$CMP PN2X10
+D Socket connector 2 x 10 pins
+K socket, connector, 2x10, pins
+F http://store.comet.bg/bg/Catalogue/Product/10042/
+$ENDCMP
+#
+$CMP PN2X3
+D Socket connector 2 x 3 pins
+K socket, connector, 2x3, pins
+F http://store.comet.bg/bg/Catalogue/Product/7757/
+$ENDCMP
+#
+$CMP Q16.000
+D Quartz 16.000 MHz, 10 ppm, SMD
+K SMD, Quartz, 10 ppm, 16.000
+F http://store.comet.bg/bg/Catalogue/Product/6270/?dl=1974
+$ENDCMP
+#
+$CMP RES_0603
+D Resistor 0603
+K resistor
+$ENDCMP
+#
+$CMP RP-SMA
+D RP-SMA (reverse polarity SMA) connector
+K RP-SMA, connector, SMA
+F http://store.comet.bg/bg/Catalogue/Product/8986/
+$ENDCMP
+#
+$CMP RS202
+D DIP SWITCH 2 PINS
+K DIP, SWITCH, 2 PINS
+F http://store.comet.bg/bg/Catalogue/Product/1646/
+$ENDCMP
+#
+$CMP SPI
+D SPI interface on connector
+K SPI, interdace, connector
+$ENDCMP
+#
+$CMP TANT_CAP_0603
+D Tantala capacitor 0603
+K capacitor
+$ENDCMP
+#
+$CMP TEST
+D TEST Pin
+K TEST pin to place where a control is needed.
+F http://store.comet.bg/bg/Catalogue/Product/29190/
+$ENDCMP
+#
+$CMP TEST_PAD
+D TEST Pin
+K TEST pin to place where a control is needed.
+F http://store.comet.bg/bg/Catalogue/Product/29190/
+$ENDCMP
+#
+$CMP USB_B
+D USB Connector
+K USB usb CONNECTOR connector
+F http://store.comet.bg/bg/Catalogue/Product/4227/
+$ENDCMP
+#
+#End Doc Library
