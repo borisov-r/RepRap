@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0  Date: Thu 28 Jun 2012 02:35:34 PM EEST
+#
+$CMP AD8551
+D Zero-Drift, Single-Supply, Rail-to-Rail, Input/Output Operational Amplifier
+K OpAmp, zero drift
+F http://www.farnell.com/datasheets/638087.pdf
+$ENDCMP
+#
+$CMP BA033CC0WFP
+D 3.3V LDO, 1A, ROHM BA033CC0WFP
+K LDO, 1A, 3.3V
+F http://store.comet.bg/bg/Catalogue/Product/4872/?dl=2663
+$ENDCMP
+#
+#End Doc Library
