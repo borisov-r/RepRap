@@ -1,0 +1,222 @@
+# EESchema Netlist Version 1.1 created  Fri 29 Jun 2012 06:36:08 PM EEST
+(
+ ( /4FEC4646 CAP_POL_10u C1 CP1
+  ( 1 N-000001 )
+  ( 2 /avss )
+ )
+ ( /4FEC463A SM0805 C2 100n
+  ( 1 N-000001 )
+  ( 2 /avss )
+ )
+ ( /4FEDAF6F SM0805 C3 10u
+  ( 1 /avdd5 )
+  ( 2 /avss )
+ )
+ ( /4FEC41FF SM0805 C4 100n
+  ( 1 /avdd5 )
+  ( 2 /avss )
+ )
+ ( /4FEC47BA SM0805 C5 10u
+  ( 1 /avdd5 )
+  ( 2 /avss )
+ )
+ ( /4FEC47BD SM0805 C6 100n
+  ( 1 /avdd5 )
+  ( 2 /avss )
+ )
+ ( /4FEC3C4C melf D1 1N4148
+  ( 1 N-000011 )
+  ( 2 /avss )
+ )
+ ( /4FEC4613 KP-2012ZGC D2 RED
+  ( 1 N-000003 )
+  ( 2 /avss )
+ )
+ ( /4FEC45D8 melf D3 1N4007
+  ( 1 /avss )
+  ( 2 N-000001 )
+ )
+ ( /4FEC4735 JUMPER3 JP1 JUMPER3
+  ( 1 /avss )
+  ( 2 N-000018 )
+  ( 3 N-000001 )
+ )
+ ( /4FEC457A TS-501 P1 CONN_2
+  ( 1 N-000001 )
+  ( 2 /avss )
+ )
+ ( /4FEC3CB3 2EDGR P2 CONN_2
+  ( 1 N-000010 )
+  ( 2 N-000017 )
+ )
+ ( /4FEDC132 TS-501 P3 CONN_2
+  ( 1 /TEMPERATURE )
+  ( 2 /avss )
+ )
+ ( /4FEC3BE4 SM0805 R1 5.62K
+  ( 1 N-000010 )
+  ( 2 /avss )
+ )
+ ( /4FEC3B03 SM0805 R2 10.7K
+  ( 1 /avdd5 )
+  ( 2 N-000011 )
+ )
+ ( /4FEC3B48 SM0805 R3 2.74K
+  ( 1 N-000011 )
+  ( 2 N-000017 )
+ )
+ ( /4FEC3BCA SM0805 R4 53.6K
+  ( 1 N-000017 )
+  ( 2 /avss )
+ )
+ ( /4FEC4601 SM0805 R5 5K
+  ( 1 N-000018 )
+  ( 2 N-000003 )
+ )
+ ( /4FEC3B2B SM0805 R6 40.2K
+  ( 1 /avdd5 )
+  ( 2 N-000012 )
+ )
+ ( /4FEC3B63 SM0805 R7 453K
+  ( 1 N-000010 )
+  ( 2 N-000005 )
+ )
+ ( /4FEC46F7 SM0805 R8 10K
+  ( 1 N-000018 )
+  ( 2 N-000008 )
+ )
+ ( /4FEC3BA7 BOURNS_TRIMMER RV1 200
+  ( 1 N-000012 )
+  ( 2 N-000013 )
+  ( 3 /avss )
+ )
+ ( /4FEC44A1 BOURNS_TRIMMER RV2 240K
+  ( 1 N-000005 )
+  ( 2 /TEMPERATURE )
+  ( 3 ? )
+ )
+ ( /4FEC4AA0 BA033CCOWFP U1 BA033CC0WFP
+  ( 1 N-000008 )
+  ( 2 N-000001 )
+  ( 3 ? )
+  ( 4 /avdd5 )
+  ( 5 ? )
+  ( 6 /avss )
+ )
+ ( /4FEC41B2 MSOP_8 U?1 AD8551
+  ( 1 ? )
+  ( 2 N-000005 )
+  ( 3 N-000013 )
+  ( 4 /avss )
+  ( 5 ? )
+  ( 6 /TEMPERATURE )
+  ( 7 /avdd5 )
+  ( 8 ? )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ CP*
+ SM*
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component C3
+ SM*
+ C?
+ C1-1
+$endlist
+$component C4
+ SM*
+ C?
+ C1-1
+$endlist
+$component C5
+ SM*
+ C?
+ C1-1
+$endlist
+$component C6
+ SM*
+ C?
+ C1-1
+$endlist
+$component D1
+ D?
+ S*
+$endlist
+$component D2
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D3
+ D?
+ S*
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R6
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R7
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R8
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$endfootprintlist
+}
