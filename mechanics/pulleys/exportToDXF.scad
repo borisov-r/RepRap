@@ -1,0 +1,1 @@
+projection(cut=true) translate([0,0,-10]) import_stl("/home/radoslav/git/RepRap/mechanics/pulleys/pulley_tooth24_XL.stl");
