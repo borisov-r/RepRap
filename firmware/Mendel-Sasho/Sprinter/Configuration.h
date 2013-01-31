@@ -54,7 +54,7 @@ const bool Z_ENDSTOP_INVERT = false;
 //#define BAUDRATE 250000
 
 // Comment out (using // at the start of the line) to disable SD support:
-#define SDSUPPORT
+//#define SDSUPPORT
 
 // Uncomment to make run init.g from SD on boot
 //#define SDINITFILE
@@ -119,7 +119,7 @@ const bool DISABLE_E = false;
 //-----------------------------------------------------------------------
 const bool INVERT_X_DIR = false;
 const bool INVERT_Y_DIR = false;
-const bool INVERT_Z_DIR = true;
+const bool INVERT_Z_DIR = false;
 const bool INVERT_E_DIR = false;
 
 //-----------------------------------------------------------------------
