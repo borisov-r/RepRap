@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-31012007-091807";"";
+"TraceParts.ClassPath";"HEPCO:/ROOT/C25/C25.040/C25.040.T06/10-31012007-091807";"";
+"TraceParts.InstanceId";"10-31012007-091807C0CBPIYIQITEWJ9SK8F4WXZW9";"";
+"REFERENCE";"0-132-2020";"";
+"DESIGN";"Aluminium Profile 20x20, length : 100 mm";"";
+"SUPPLIER";"HEPCO";"";
+"MASS";"0,044";"kg";
+"TraceParts.PartStatus";"Published";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartVersion";"1.1.1";"";
